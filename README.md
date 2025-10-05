@@ -19,25 +19,6 @@ Aplicación de calculadora hecha con HTML, CSS y JavaScript puro. Incluye select
 2. Abre `index.html` con doble clic o arrástralo al navegador.
 3. Calcula usando los botones o el teclado, cambia el tema desde el menú “Tema” y limpia el historial cuando lo necesites.
 
-## Subir el código a tu repositorio
-
-1. Crea un repositorio vacío en GitHub (por ejemplo, `calculadora-web`).
-2. Desde la carpeta del proyecto ejecuta:
-   ```powershell
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/<tu-usuario>/<tu-repo>.git
-   git push -u origin main
-   ```
-
-## Publicar con GitHub Pages
-
-1. En GitHub abre **Settings → Pages**.
-2. Selecciona la rama `main` y la carpeta raíz `/`.
-3. Guarda y espera a que aparezca la URL pública.
-
 ## Personaliza más
 
 - Ajusta colores o añade nuevos temas modificando las variables CSS.
